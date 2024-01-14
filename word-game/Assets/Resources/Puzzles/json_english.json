@@ -1,0 +1,32 @@
+{
+    "Levels": [
+        {
+            "levelName": "CORN",
+                "the_word": "SUN",
+                "words": [
+                    { "word": "US" },
+                    { "word": "SUN" }
+                ]
+            
+        },
+        {
+            "levelName": "CARROT",
+                "the_word": "TAB",
+                "words": [
+                    { "word": "BAT" },
+                    { "word": "TAB" }
+                ]
+            
+        },
+        {
+            "levelName": "LEMON",
+                "the_word": "TAN",
+                "words": [
+                    { "word": "AT" },
+                    { "word": "TAN" },
+                    { "word": "ANT" }
+                ]
+            
+        }        
+    ]
+}

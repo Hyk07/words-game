@@ -1,0 +1,32 @@
+{
+    "Levels": [
+        {
+            "levelName": "MISIR",
+                "the_word": "TOP",
+                "words": [
+                    { "word": "TOP" },
+                    { "word": "POT" }
+                ]
+            
+        },
+        {
+            "levelName": "HAVUC",
+                "the_word": "ASYA",
+                "words": [
+                    { "word": "ASYA" },
+                    { "word": "YASA" }
+                ]
+            
+        },
+        {
+            "levelName": "LIMON",
+                "the_word": "MASAL",
+                "words": [
+                    { "word": "MASAL" },
+                    { "word": "SALAM" },
+                    { "word": "SALMA" }
+                ]
+            
+        }        
+    ]
+}
